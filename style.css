@@ -245,4 +245,9 @@ nav a {
   .info p {
     margin: 0 auto;
   }
+
+   .head img {
+    height: 32px; /* smaller than original 44px */
+    width: 32px;  /* smaller than original 44px */
+  }
 }
